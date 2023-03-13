@@ -47,13 +47,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://robinsondev428.github.io/">
-    <img src="src/screenshots/screenshot.gif" alt="landing page"/>
-  </a>
-</p>
-
-
 ## Table of Contents :scroll:
 
 - [Design](#design-art)
