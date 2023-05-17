@@ -1,5 +1,5 @@
 <h1 align="center">
- <a href="https://robinsondev428.github.io/">XaviHart.github.io</a> - v2.0
+ <a href="https://robinsondev428.github.io/">XaviHernandez.github.io</a> - v2.0
  <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
@@ -19,7 +19,7 @@
  <a href="https://github.com/robinsondev428/robinsondev428.github.io">
   <img src="src/screenshots/icon.png" alt="Logo" width="80" height="80"/>
  </a>
- <h3 align="center">Xavi Hart's Personal Portfolio</h3>
+ <h3 align="center">Xavi Hernandez's Personal Portfolio</h3>
  <p align="center">
   This is the source code for my Personal Portfolio.
   <br/>
@@ -49,20 +49,20 @@
 
 ## Table of Contents :scroll
 
-- [Table of Contents :scroll:](#table-of-contents-scroll)
-- [Design :art:](#design-art)
+- [Table of Contents :scroll](#table-of-contents-scroll)
+- [Design :art](#design-art)
   - [Fonts](#fonts)
   - [Color Scheme](#color-scheme)
     - [Main Screen](#main-screen)
     - [Splash Screen \& 404 Page](#splash-screen--404-page)
   - [Icon](#icon)
-- [Built With :package:](#built-with-package)
-- [How to run locally? :dart:](#how-to-run-locally-dart)
-- [Sections :bookmark:](#sections-bookmark)
-- [Folder Structure :open\_file\_folder:](#folder-structure-open_file_folder)
-- [Search engine optimization(SEO) :spider:](#search-engine-optimizationseo-spider)
+- [Built With :package](#built-with-package)
+- [How to run locally? :dart](#how-to-run-locally-dart)
+- [Sections :bookmark](#sections-bookmark)
+- [Folder Structure :open\_file\_folder](#folder-structure-open_file_folder)
+- [Search engine optimization(SEO) :spider](#search-engine-optimizationseo-spider)
 - [PageSpeed Insights](#pagespeed-insights)
-- [Creator / Maintainer :man\_technologist:](#creator--maintainer-man_technologist)
+- [Creator / Maintainer :man\_technologist](#creator--maintainer-man_technologist)
 - [🤝 Contributing](#-contributing)
 - [Contributors ✨](#contributors-)
 - [📝 License](#-license)
@@ -163,6 +163,7 @@ These are the Font Awesome Icons used in [robinsondev428.github.io](https://robi
       ```bash
       git clone https://github.com/robinsondev428/robinsondev428.github.io.git
       ```
+
   - With SSH:
 
       ```bash
@@ -181,6 +182,7 @@ These are the Font Awesome Icons used in [robinsondev428.github.io](https://robi
   ```bash
   npm install
   ```
+
   - Installs all the dependencies required by the project.
 
 - Fire up a development server:
@@ -188,6 +190,7 @@ These are the Font Awesome Icons used in [robinsondev428.github.io](https://robi
   ```bash
   ng serve
   ```
+
   - Runs the app in the `development` mode.
   - Open [http://localhost:4200/](http://localhost:4200/) to view it in the Default Browser.
   - The page will reload if you make edits.
@@ -198,6 +201,7 @@ These are the Font Awesome Icons used in [robinsondev428.github.io](https://robi
   ```bash
   ng deploy --base-href="/"
   ```
+
   - Builds the application for production to the `build` folder & deploys application on `GitHub Pages`.
   - It correctly bundles Angular in production mode and optimizes the build for the best performance.
   - The build is minified and the filenames include the hashes.
