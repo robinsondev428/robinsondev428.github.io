@@ -1,71 +1,73 @@
-<h1 align="center"> 
-	<a href="https://robinsondev428.github.io/">XaviHernandez.github.io</a> - v2.0
-	<p align="center">
-		<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
-		<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
-		<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=white"/>
-		<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-		<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
-		<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
-		<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-		<img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white"/>
-		<img alt="Open Source? Yes!" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/> 
-	</p>
+<h1 align="center">
+ <a href="https://robinsondev428.github.io/">XaviHart.github.io</a> - v2.0
+ <p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white"/>
+  <img alt="Open Source? Yes!" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/>
+ </p>
 </h1>
 
 <br/>
 
 <div align="center">
-	<a href="https://github.com/robinsondev428/robinsondev428.github.io">
-		<img src="src/screenshots/icon.png" alt="Logo" width="80" height="80"/>
-	</a>
-	<h3 align="center">Xavi Hernandez's Personal Portfolio</h3>
-	<p align="center">
-		This is the source code for my Personal Portfolio.
-		<br/>
-		<a href="https://github.com/robinsondev428/robinsondev428.github.io"><strong>Explore the docs »</strong></a>
-		<br/>
-		<br/>
-		<a href="https://robinsondev428.github.io/">View Demo</a>
-		·
-		<a href="https://github.com/robinsondev428/robinsondev428.github.io/issues/new?assignees=JayantGoel001&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
-		·
-		<a href="https://github.com/robinsondev/robinsondev428.github.io/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
-	</p>
-	<p>
-		<img src="https://img.shields.io/github/contributors/robinsondev428/robinsondev428.github.io.svg?styles/default/yes.svg" alt="Contributors"/> • 
-		<img src="https://img.shields.io/github/forks/robinsondev428/robinsondev428.github.io.svg?styles/default/yes.svg" alt="Forks"/> • 
-		<img src="https://img.shields.io/github/stars/robinsondev428/robinsondev428.github.io.svg?styles/default/yes.svg" alt="Stars"/> •
-		<img src="https://img.shields.io/github/issues/robinsondev428/robinsondev428.github.io.svg?styles/default/yes.svg" alt="Issues"/> •
-		<img alt="Repo Size" src="https://img.shields.io/github/repo-size/robinsondev428/robinsondev428.github.io"/>
-	</p>
-	<p>
-		<img alt="Github Deployment Status" src="https://github.com/robinsondev428/robinsondev428.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&dummy=unused"/> •
-		<img src="https://github.com/robinsondev428/robinsondev428.github.io/actions/workflows/publish-docker.yml/badge.svg?dummy=unused" alt="Docker Image Status"/>
-	</p>
+ <a href="https://github.com/robinsondev428/robinsondev428.github.io">
+  <img src="src/screenshots/icon.png" alt="Logo" width="80" height="80"/>
+ </a>
+ <h3 align="center">Xavi Hart's Personal Portfolio</h3>
+ <p align="center">
+  This is the source code for my Personal Portfolio.
+  <br/>
+  <a href="https://github.com/robinsondev428/robinsondev428.github.io"><strong>Explore the docs »</strong></a>
+  <br/>
+  <br/>
+  <a href="https://robinsondev428.github.io/">View Demo</a>
+  ·
+  <a href="https://github.com/robinsondev428/robinsondev428.github.io/issues/new?assignees=JayantGoel001&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
+  ·
+  <a href="https://github.com/robinsondev/robinsondev428.github.io/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
+ </p>
+ <p>
+  <img src="https://img.shields.io/github/contributors/robinsondev428/robinsondev428.github.io.svg?styles/default/yes.svg" alt="Contributors"/> •
+  <img src="https://img.shields.io/github/forks/robinsondev428/robinsondev428.github.io.svg?styles/default/yes.svg" alt="Forks"/> •
+  <img src="https://img.shields.io/github/stars/robinsondev428/robinsondev428.github.io.svg?styles/default/yes.svg" alt="Stars"/> •
+  <img src="https://img.shields.io/github/issues/robinsondev428/robinsondev428.github.io.svg?styles/default/yes.svg" alt="Issues"/> •
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/robinsondev428/robinsondev428.github.io"/>
+ </p>
+ <p>
+  <img alt="Github Deployment Status" src="https://github.com/robinsondev428/robinsondev428.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&dummy=unused"/> •
+  <img src="https://github.com/robinsondev428/robinsondev428.github.io/actions/workflows/publish-docker.yml/badge.svg?dummy=unused" alt="Docker Image Status"/>
+ </p>
 </div>
 
 <br/>
 
-## Table of Contents :scroll:
+## Table of Contents :scroll
 
-- [Design](#design-art)
-    - [Fonts](#fonts)
-    - [Color Scheme](#color-scheme)
-    - [Icon](#icon)
-- [Built With](#built-with-package)
-- [How to Run Locally?](#how-to-run-locally-dart)
-- [Sections](#sections-bookmark)
-- [Folder Structure](#folder-structure-open_file_folder)
-- [Search engine optimization(SEO)](#search-engine-optimizationseo-spider)
+- [Table of Contents :scroll:](#table-of-contents-scroll)
+- [Design :art:](#design-art)
+  - [Fonts](#fonts)
+  - [Color Scheme](#color-scheme)
+    - [Main Screen](#main-screen)
+    - [Splash Screen \& 404 Page](#splash-screen--404-page)
+  - [Icon](#icon)
+- [Built With :package:](#built-with-package)
+- [How to run locally? :dart:](#how-to-run-locally-dart)
+- [Sections :bookmark:](#sections-bookmark)
+- [Folder Structure :open\_file\_folder:](#folder-structure-open_file_folder)
+- [Search engine optimization(SEO) :spider:](#search-engine-optimizationseo-spider)
 - [PageSpeed Insights](#pagespeed-insights)
-- [Creator / Maintainer](#creator--maintainer-man_technologist)
-- [Contributing](#-contributing)
-- [Contributors](#contributors-)
-- [License](#-license)
+- [Creator / Maintainer :man\_technologist:](#creator--maintainer-man_technologist)
+- [🤝 Contributing](#-contributing)
+- [Contributors ✨](#contributors-)
+- [📝 License](#-license)
 
-
-## Design :art:
+## Design :art
 
 ### Fonts
 
@@ -133,8 +135,7 @@ These are the Font Awesome Icons used in [robinsondev428.github.io](https://robi
 
 <img alt="Font Awesome Icon" src="src/screenshots/font-awesome-icon.png"/>
 
-
-## Built With :package:
+## Built With :package
 
 - 💙 [HTML5](https://www.w3schools.com/html/)
 - 💜 [CSS3](https://www.w3schools.com/css/)
@@ -147,8 +148,7 @@ These are the Font Awesome Icons used in [robinsondev428.github.io](https://robi
 - 💙 [FontAwesome](https://fontawesome.com/) for the icons
 - 💜 [GitHub Pages](https://pages.github.com/) for hosting
 
-
-## How to run locally? :dart:
+## How to run locally? :dart
 
   Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/) installed.
 
@@ -158,51 +158,50 @@ These are the Font Awesome Icons used in [robinsondev428.github.io](https://robi
   ```
 
 - Clone the repository :
-    - With HTTPS:
+  - With HTTPS:
+
       ```bash
       git clone https://github.com/robinsondev428/robinsondev428.github.io.git
       ```
-    - With SSH:
+  - With SSH:
+
       ```bash
       git@github.com:robinsondev428/robinsondev428.github.io.git
       ```
-      
+
 - Navigate to working Directory and **main** branch
 
-	```bash
-	cd robinsondev428.github.io
-	git switch main
-	```
+ ```bash
+ cd robinsondev428.github.io
+ git switch main
+ ```
 
 - Install the dependencies:
 
   ```bash
   npm install
   ```
-	- Installs all the dependencies required by the project.
-
+  - Installs all the dependencies required by the project.
 
 - Fire up a development server:
 
   ```bash
   ng serve
   ```
-    - Runs the app in the `development` mode.
-    - Open [http://localhost:4200/](http://localhost:4200/) to view it in the Default Browser.
-    - The page will reload if you make edits.
-    - You will also see any lint errors in the console.
-
+  - Runs the app in the `development` mode.
+  - Open [http://localhost:4200/](http://localhost:4200/) to view it in the Default Browser.
+  - The page will reload if you make edits.
+  - You will also see any lint errors in the console.
 
 - Deploy code to GitHub Pages (gh-pages):
   
   ```bash
   ng deploy --base-href="/"
   ```
-    - Builds the application for production to the `build` folder & deploys application on `GitHub Pages`.
-    - It correctly bundles Angular in production mode and optimizes the build for the best performance.
-    - The build is minified and the filenames include the hashes.
+  - Builds the application for production to the `build` folder & deploys application on `GitHub Pages`.
+  - It correctly bundles Angular in production mode and optimizes the build for the best performance.
+  - The build is minified and the filenames include the hashes.
   
-
 - Create a new branch:
 
   ```bash
@@ -225,43 +224,45 @@ Make sure you have [Docker](https://www.docker.com/products/docker-desktop/) ins
 docker --version
 ```
 
-  - To pull the [GitHub Container Registry](https://github.com/robinsondev428/robinsondev428.github.io/pkgs/container/robinsondev428.github.io) Image:
+- To pull the [GitHub Container Registry](https://github.com/robinsondev428/robinsondev428.github.io/pkgs/container/robinsondev428.github.io) Image:
+
     ```bash
     docker pull ghcr.io/robinsondev428/robinsondev428.github.io:latest
     ```
   
-  - To pull the [Dockerhub](https://hub.docker.com/r/robinsondev428/robinsondev428.github.io) Image:
+- To pull the [Dockerhub](https://hub.docker.com/r/robinsondev428/robinsondev428.github.io) Image:
+
     ```bash
     docker pull robinsondev428/robinsondev428.github.io:latest
     ```
   
-  - To automatically pull and run the [GitHub Container Registry](https://github.com/robinsondev428/robinsondev428.github.io/pkgs/container/robinsondev428.github.io) Image:
+- To automatically pull and run the [GitHub Container Registry](https://github.com/robinsondev428/robinsondev428.github.io/pkgs/container/robinsondev428.github.io) Image:
+
     ```bash
     docker run -d -p 4200:80 ghcr.io/robinsondev428/robinsondev428.github.io:latest
     ```
 
-  - To automatically pull and run the [Dockerhub](https://hub.docker.com/r/robinsondev428/robinsondev428.github.io) Image:
+- To automatically pull and run the [Dockerhub](https://hub.docker.com/r/robinsondev428/robinsondev428.github.io) Image:
+
     ```bash
     docker run -d -p 4200:80 robinsondev428/robinsondev428.github.io:latest
     ```
 
     Open [http://localhost:4200/](http://localhost:4200/) to view it in the Default Browser.
 
-
-## Sections :bookmark:
+## Sections :bookmark
 
 - Home
 - About
-	- About
-	- Skill
-	- Education
+  - About
+  - Skill
+  - Education
 - Portfolio
 - Training
 - Achievement
 - Contact
 
-
-## Folder Structure :open_file_folder:
+## Folder Structure :open_file_folder
 
 <pre>
 |   .all-contributorsrc
@@ -279,17 +280,17 @@ docker --version
 |   tsconfig.app.json
 |   tsconfig.json
 |   tsconfig.spec.json
-|   
+|
 +---.github
 |   +---lighthouse
 |   |       budget.json
 |   |       lighthouserc.json
-|   |       
+|   |
 |   \---workflows
 |           publish-docker.yml
 |           pull-request-deploy-and-audit.yml
 |           fork_star.yml
-|           
+|
 \---src
     |   apple-touch-icon.png
     |   browserconfig.xml
@@ -305,7 +306,7 @@ docker --version
     |   robots.txt
     |   sitemap_index.xml
     |   styles.min.css
-    |   
+    |
     +---app
     |   |   app-routing.module.ts
     |   |   app.component.css
@@ -313,82 +314,82 @@ docker --version
     |   |   app.component.ts
     |   |   app.module.ts
     |   |   loadExternalResource.ts
-    |   |   
+    |   |
     |   +---about
     |   |       about.component.css
     |   |       about.component.html
     |   |       about.component.ts
-    |   |       
+    |   |
     |   +---achievement
     |   |       achievement.component.css
     |   |       achievement.component.html
     |   |       achievement.component.ts
-    |   |       
+    |   |
     |   +---application
     |   |       application.component.css
     |   |       application.component.html
     |   |       application.component.ts
     |   |       application.module.ts
-    |   |       
+    |   |
     |   +---contact
     |   |       contact.component.css
     |   |       contact.component.html
     |   |       contact.component.ts
-    |   |       
+    |   |
     |   +---footer
     |   |       footer.component.css
     |   |       footer.component.html
     |   |       footer.component.ts
-    |   |       
+    |   |
     |   +---home
     |   |       home.component.css
     |   |       home.component.html
     |   |       home.component.ts
-    |   |       
+    |   |
     |   +---navbar
     |   |       navbar.component.css
     |   |       navbar.component.html
     |   |       navbar.component.ts
-    |   |       
+    |   |
     |   +---page-not-found
     |   |       page-not-found.component.css
     |   |       page-not-found.component.html
     |   |       page-not-found.component.ts
     |   |       page-not-found.module.ts
-    |   |       
+    |   |
     |   +---portfolio
     |   |       portfolio.component.css
     |   |       portfolio.component.html
     |   |       portfolio.component.ts
-    |   |       
+    |   |
     |   +---quote
     |   |       quote.component.css
     |   |       quote.component.html
     |   |       quote.component.ts
-    |   |       
+    |   |
     |   +---social
     |   |       social.component.css
     |   |       social.component.html
     |   |       social.component.ts
-    |   |       
+    |   |
     |   +---training
     |   |       training.component.css
     |   |       training.component.html
     |   |       training.component.ts
-    |   |       
+    |   |
     |   \---waifu
     |           Model.ts
     |           waifu.component.css
     |           waifu.component.html
     |           waifu.component.ts
-    |           
+    |
     +---assets
     |   |   data.min.js
-    |   |   
+    |   |
     |   +---css
     |   |       animate.min.css
     |   |       font-awesome.min.css
-    |   |       
+    |   |
     |   +---fonts
     |   |       BlackOpsOne.eot
     |   |       BlackOpsOne.svg
@@ -410,7 +411,7 @@ docker --version
     |   |       fa-solid-900.ttf
     |   |       fa-solid-900.woff
     |   |       fa-solid-900.woff2
-    |   |       
+    |   |
     |   +---images
     |   |   |   404.webp
     |   |   |   about-bg.svg
@@ -434,12 +435,12 @@ docker --version
     |   |   |   Profile-pic.webp
     |   |   |   quote-img.webp
     |   |   |   safari-pinned-tab.svg
-    |   |   |   
+    |   |   |
     |   |   +---achievement
     |   |   |       DataScience.webp
     |   |   |       HackerRank.webp
     |   |   |       Hacktoberfest.webp
-    |   |   |       
+    |   |   |
     |   |   \---portfolio
     |   |           A-Social-Media.webp
     |   |           AI-Image-Caption-Bot.webp
@@ -447,22 +448,22 @@ docker --version
     |   |           E-Commerce-Site.webp
     |   |           School-Donation-Analysis.webp
     |   |           URL-Shortner.webp
-    |   |           
+    |   |
     |   +---js
     |   |       live2d.min.js
     |   |       particles.min.js
     |   |       vanilla-tilt.min.js
     |   |       wow.min.js
-    |   |       
+    |   |
     |   \---model
     |       |   README.md
-    |       |   
-    |  	    \---<a href="src/assets/model/" target="_blank">model</a>
-    |                       
+    |       |
+    |       \---<a href="src/assets/model/" target="_blank">model</a>
+    |
     +---environments
     |       environment.prod.ts
     |       environment.ts
-    |       
+    |
     \---screenshots
             color-loader-404.png
             color-main.png
@@ -474,8 +475,7 @@ docker --version
             screenshot.gif
 </pre>
 
-
-## Search engine optimization(SEO) :spider:
+## Search engine optimization(SEO) :spider
 
 Search engine optimization (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines.
 Add the below code snippet to `src/index.html` with your site info. This step is not mandatory.
@@ -533,21 +533,19 @@ Add the below code snippet to `src/index.html` with your site info. This step is
 </script>
 ```
 
-
 ## PageSpeed Insights
 
 PageSpeed Insights (PSI) reports on the performance of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved.
 
 - **Desktop**
 
-	[![PageSpeed Insight Desktop](src/screenshots/PageSpeedInsight%20Desktop.png)](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%robinsondev428.github.io%2F&strategy=desktop&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa)
+ [![PageSpeed Insight Desktop](src/screenshots/PageSpeedInsight%20Desktop.png)](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%robinsondev428.github.io%2F&strategy=desktop&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa)
 
 - **Mobile**
 
-	[![PageSpeed Insight Mobile](src/screenshots/PageSpeedInsight%20Mobile.png)](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%robinsondev428.github.io%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa)
+ [![PageSpeed Insight Mobile](src/screenshots/PageSpeedInsight%20Mobile.png)](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%robinsondev428.github.io%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa)
 
-
-## Creator / Maintainer :man_technologist:
+## Creator / Maintainer :man_technologist
 
 👤 Robinsondev ([robinsondev428](https://github.com/robinsondev428))
 
@@ -556,7 +554,6 @@ PageSpeed Insights (PSI) reports on the performance of a page on both mobile and
 Contributions, Issues and Feature requests are Welcome!
 
 Feel free to check the [Issues page](https://github.com/robinsondev428/robinsondev428.github.io/issues/).
-
 
 ## Contributors ✨
 
@@ -572,8 +569,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-
 ## 📝 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.<br/>
-Copyright &copy; 2021 Robinsondev. All rights reserved. 
+Copyright &copy; 2021 Robinsondev. All rights reserved.
