@@ -1,5 +1,5 @@
 <h1 align="center">
- <a href="https://robinsondev428.github.io/">XaviHernandez.github.io</a> - v2.0
+ <a href="https://robinsondev428.github.io/">XaviHart.github.io</a> - v2.0
  <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
@@ -19,7 +19,7 @@
  <a href="https://github.com/robinsondev428/robinsondev428.github.io">
   <img src="src/screenshots/icon.png" alt="Logo" width="80" height="80"/>
  </a>
- <h3 align="center">Xavi Hernandez's Personal Portfolio</h3>
+ <h3 align="center">Xavi Hart's Personal Portfolio</h3>
  <p align="center">
   This is the source code for my Personal Portfolio.
   <br/>

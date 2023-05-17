@@ -1,19 +1,19 @@
 {
 	"name": "robinsondev428.github.io",
 	"version": "2.0.0",
-	"description": "Xavi Hernandez (robinsondev428)'s Personal Portfolio",
+	"description": "Xavi Hart (robinsondev428)'s Personal Portfolio",
 	"main": "index.js",
-	"author": "Xavi Hernandez",
+	"author": "Xavi Hart",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/robinsondev428/robinsondev428.github.io/issues"
 	},
 	"keywords": [
 		"Jayant",
-		"Xavi Hernandez",
-		"Xavi Hernandez Portfolio",
+		"Xavi Hart",
+		"Xavi Hart Portfolio",
 		"robinsondev428",
-		"Xavi Hernandez (robinsondev428)'s Personal Portfolio"
+		"Xavi Hart (robinsondev428)'s Personal Portfolio"
 	],
 	"repository": "https://github.com/robinsondev428/robinsondev428.github.io",
 	"homepage": "https://robinsondev428.github.io",
